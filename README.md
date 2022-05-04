@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/eliebadari)
-[<img align="left" alt="Instagram" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://www.instagram.com/elie.badari/)
 <br />
+[<img align="left" alt="Instagram" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://www.instagram.com/elie.badari/)
+
+<br/>
+<br/>
 
 
 ### Languages and Tools:
@@ -41,7 +44,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 
 
-<br />
-<br />
+<br/>
+<br/>
 
 ---
