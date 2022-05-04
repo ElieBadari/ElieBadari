@@ -23,14 +23,13 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Learn more about web3 and blockchain development 
 - ⚡ Fun fact: I enjoy Techno beats, Drawing, and playing games with Friends
 
-### Connect with moe:
+### Connect with me:
+[<img align="left" alt="LinkedIn" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/eliebadari)
+[<img align="left" alt="Instagram" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://www.instagram.com/elie.badari/)
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/eliebadari#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/eliebadari#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/elie.badari#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/elie.badari#gh-dark-mode-only)
+
+
 
 ### Languages and Tools:
 
