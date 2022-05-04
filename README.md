@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://linkedin.com/in/eliebadari)
 [<img align="left" alt="Instagram" width="26px" src="C:\Users\elieb\Downloads\linkedin.svg" style="padding-right:10px;" />](https://www.instagram.com/elie.badari/)
-
-
-
+<br />
 
 
 ### Languages and Tools:
