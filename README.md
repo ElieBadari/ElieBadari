@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 ## I'm an Undergraduate Computer Scientist at Lebanese American University!
 
 - 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on web3 game development
 - 👯 I’m looking to collaborate with other like-minded blockchain visionaries 
-- 🥅 2022 Goals: Learn more about web3 and blockchain development 
-- ⚡ Fun fact: I enjoy Techno beats, Dancing, and playing games with Friends
+- 🥅 2023 Goals: Learn more about web3 game development
+- ⚡ Fun fact: I enjoy Techno and afro beats, Dancing, any athletic sports, playing online multiplayer games
 
 
 ### Languages and Tools:
